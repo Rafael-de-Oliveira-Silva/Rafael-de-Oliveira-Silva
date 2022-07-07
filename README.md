@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Rafael
-Desenvolvedor Graduado em Sistemas de Informação - UNIGRANRIO 2016. / Especialização em Desenvolvimento FullStack - PUC Minas, 2022.
+Analista de Sistema, graduado em Sistemas de Informação pela UNIGRANRIO em 2016 / Especialização em Desenvolvimento FullStack - PUC Minas, 2022.
 
 Skills: C# / Java / HTML / CSS / Javascript / Delphi
 
