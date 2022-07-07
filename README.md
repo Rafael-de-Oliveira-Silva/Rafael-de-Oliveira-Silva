@@ -10,5 +10,8 @@ Skills: C# / Java / HTML / CSS / Javascript / Delphi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-de-Oliveira-Silva&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Rafael-de-Oliveira-Silva)   
+![Profile views](https://gpvc.arturio.dev/Rafael-de-Oliveira-Silva) 
+
+
+          
   
